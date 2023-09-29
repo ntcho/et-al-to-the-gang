@@ -25,4 +25,4 @@ While these instructions are specifically for Chrome, they should be fairly simp
 
 ## Use cases
 
-![Screenshot](https://github.com/ntcho/et-al-to-the-gang/assets/13298429/3cbd2142-2d0a-4056-98a0-b4afb4494a01)
+![Screenshot](https://github.com/ntcho/et-al-to-the-gang/assets/13298429/54908b2c-8b4f-428f-8258-c687805dc092)
