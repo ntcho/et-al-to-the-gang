@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "et al. to the Gang",
+  "version": "1.0",
+  "description": "Replaces the text 'et al.' with 'and the gang'.",
+  "content_scripts": [
+    {
+      "matches": ["*://*/*"],
+      "js": ["content_script.js"],
+      "run_at": "document_end"
+    }
+  ]
+}
