@@ -3,10 +3,11 @@
   "name": "et al. to the Gang",
   "version": "1.0",
   "description": "Replaces the text 'et al.' with 'and the gang'.",
+  "homepage_url": "https://github.com/ntcho/et-al-to-the-gang",
   "content_scripts": [
     {
       "matches": ["*://*/*"],
-      "js": ["content_script.js"],
+      "js": ["src/content_script.js"],
       "run_at": "document_end"
     }
   ]
