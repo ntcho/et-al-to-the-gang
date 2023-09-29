@@ -37,6 +37,7 @@ function handleText(textNode) {
 
   v = v.replace(/,?.?et al./g, " & the gang");
   v = v.replace(/,?.?Et al./g, " & the Gang");
+  v = v.replace(/,?.?Et Al./g, " & the Gang");
   v = v.replace(/,?.?ET AL./g, " & THE GANG");
   // v = v.replace(/\bThe cloud\b/g, "My butt");
   // v = v.replace(/\bthe Cloud\b/g, "my Butt");
